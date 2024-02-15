@@ -1,6 +1,7 @@
 ### Hi there 👋 | I'm Kittipat
 
 I'm from Thailand, currently studying at Nakhon Pathom Rajabhat University Faculty of Science and Technology Major: Software Engineer.
+Languages : javascript, java, python
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bed7ime)](https://github.com/anuraghazra/github-readme-stats)
