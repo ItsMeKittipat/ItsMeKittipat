@@ -3,7 +3,7 @@
 I'm from Thailand, currently studying at Nakhon Pathom Rajabhat University Faculty of Science and Technology Major: Software Engineer.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsMeKittipat)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bed7ime)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ItsMeKittipat/ItsMeKittipat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
